@@ -1,8 +1,7 @@
 """
 predict.py — Kolhapur Solid Waste Predictor
-Usage: python predict.py
-
-Interactive CLI to predict waste generation for any ward on any date.
+Use via: python predict.py
+This is a Interactive CLI to predict waste generation for any ward on any date.
 """
 
 import joblib
@@ -10,7 +9,7 @@ import numpy as np
 import pandas as pd
 from datetime import date, datetime
 
-# Load saved artefacts
+# you can Load saved artefacts
 rf        = joblib.load("models/random_forest_model.pkl")
 le_zone   = joblib.load("models/label_encoder_zone.pkl")
 le_ward   = joblib.load("models/label_encoder_ward.pkl")
