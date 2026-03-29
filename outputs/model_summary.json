@@ -1,0 +1,27 @@
+{
+  "model": "Random Forest Regressor",
+  "n_estimators": 200,
+  "max_depth": 12,
+  "features": [
+    "population",
+    "zone_encoded",
+    "ward_encoded",
+    "day_of_week",
+    "is_weekend",
+    "is_festival",
+    "post_festival",
+    "month",
+    "quarter",
+    "week_of_year",
+    "is_monday",
+    "season_factor",
+    "rainfall_mm",
+    "temperature_c"
+  ],
+  "metrics": {
+    "MAE_kg": 272.14,
+    "RMSE_kg": 381.67,
+    "R2": 0.9566,
+    "MAPE_pct": 4.46
+  }
+}
