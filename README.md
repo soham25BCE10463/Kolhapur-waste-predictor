@@ -54,7 +54,7 @@ kolhapur-waste-predictor/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/kolhapur-waste-predictor.git
+git clone [https://github.com/soham25BCE10463/Kolhapur-waste-predictor.git]
 cd kolhapur-waste-predictor
 ```
 
