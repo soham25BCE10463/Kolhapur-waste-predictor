@@ -166,7 +166,7 @@ joblib>=1.3
 **Course:** Fundamentals of AI and ML  
 **Project Type:** Bring Your Own Project (BYOP)  
 **Institution:** VIT Bhopal University
-**Problem domain:** Smart Cities / Urban Infrastructure / Environmental Technology
+**Problem domain:** Smart Cities
 
 
 ## Acknowledgements
